@@ -1,0 +1,19 @@
+{
+  "club": {
+    "name": "Retro DAD",
+    "description": "A club for all the Retro apple DAD y00ts",
+    "colors": [
+      "#b9c2c4",
+      "#dad7c8",
+      "#e7cbb5",
+      "#c28256",
+      "#946342",
+      "#000000"
+    ]
+  },
+  "traits": {
+    "Eyewear": [
+      "Retro apple"
+    ]
+  }
+}
